@@ -14,11 +14,11 @@ def main():
    
         total = sum(numbers)
 
-        print((numbers),end = " ")
+        #print((numbers),end = " ")
 
-        print(" ")
+        #print(" ")
 
-     print("The sum of the values is:",total)
+    print("The sum of the values is:",total)
 
         
 
