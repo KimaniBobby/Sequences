@@ -18,7 +18,7 @@ def main():
 
         print(" ")
 
-        print("The sum of the values is:",total)
+     print("The sum of the values is:",total)
 
         
 
